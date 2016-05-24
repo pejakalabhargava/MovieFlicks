@@ -49,6 +49,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+ - Genymotion does not support YOUTUBE player without google service installed. on the real android phones videos of the trailer play fine. However for Genymotion some tweaks are needed. Thats why in the demo we see initialization errors.
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
