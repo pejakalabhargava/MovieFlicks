@@ -33,7 +33,8 @@ The following **bonus** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+      *On Every refresh the movie list is shuffled to give the realtime effect
 
 ## Video Walkthrough
 
